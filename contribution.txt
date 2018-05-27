@@ -1,0 +1,5 @@
+20160844: 50%
+20120563: 50%
+
+We didn't use git to collaborate remotely. Instead we did pair programming and did the whole project together.
+
